@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Yu Gan - SystemResearch@Google
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yu
+last_name: Gan
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,87 +20,69 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Senior Research Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: SystemResearch@Google
+    url: https://techsysinfra.google/research/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:yg397@cornell.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/ygan397
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/yu-gan/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=jT7mlGAAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0003-2697-9950
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Efficient LLM serving
+  - LLM agents for coding
+  - ML for systems
+  - Cloud computing
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Ph.D. Electrical and Computer Engineering
+    institution: Cornell University
+    date_start: 2016-08-16
+    date_end: 2021-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on Designing and Managing Large-Scale Interactive Microservices in Datacenters. Supervised by [Prof. Christina Delimitrou](https://people.csail.mit.edu/delimitrou/Main.html). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://www.proquest.com/openview/1e7a7d4ad081035c91dfab665cd817e0/1?cbl=18750&diss=y&pq-origsite=gscholar'
+  - area: B.Eng. Electronic Engineering
+    institution: Tsinghua University
+    date_start: 2012-09-01
+    date_end: 2016-07-03
     summary: |
-      GPA: 3.8/4.0
+      GPA: 91.3/100
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - position: Senior Research Engineer
+    company_name: SystemResearch@Google
+    company_url: 'https://techsysinfra.google/research/'
+    company_logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/2880px-Google_2015_logo.svg.png'
+    date_start: 2023-03-06
     date_end: ''
     summary: |2-
-      Responsibilities include:
+      Research projects include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - position: Senior Software Engineer
+    company_name: Alibaba Cloud
+    company_url: 'https://www.alibabacloud.com/en?_p_lc=5'
+    company_logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/AlibabaCloudLogo.svg/2880px-AlibabaCloudLogo.svg.png'
+    date_start: 2022-02-28
+    date_end: 2023-03-01
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
@@ -183,4 +165,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yu Gan is a senior research engineer at [SystemResearch@Google](https://techsysinfra.google/research/), working on efficient LLM serving and coding agents. He received his Ph.D. degree in Electrical and Computer Engineering at [Computer Systems Laboratory (CSL)](https://www.csl.cornell.edu/), [Cornell University](https://www.cornell.edu/), advised by Professor [Christina Delimitrou](https://people.csail.mit.edu/delimitrou/Main.html). His Ph.D. thesis was focused on building and managing large-scale microservices in datacenters, improving their performance and resource efficiency using machine learning. He is currently broadly interested in ML for systems and systems for ML. Before studying at Cornell, he obtained my B.Eng. degree in Electronic Engineering from [Tsinghua University](https://www.tsinghua.edu.cn/) in 2016. 
+
+Yu Gan has been recived three IEEE Micro TopPicks Awards and one CIDR best paper award. 
