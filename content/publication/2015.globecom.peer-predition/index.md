@@ -3,7 +3,7 @@ title = "Incentive Attack Prevention for Collaborative Spectrum Sensing: A Peer-
 date = 2015-12-15
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["yu_gan", "Chunxiao Jiang", "Wei Zhang", "Norman C. Beaulieu", "Yong Ren"]
+authors = ["admin", "Chunxiao Jiang", "Wei Zhang", "Norman C. Beaulieu", "Yong Ren"]
 
 # Publication type.
 # Legend:

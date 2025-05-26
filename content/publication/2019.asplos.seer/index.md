@@ -3,7 +3,7 @@ title = "Seer: Leveraging Big Data to Navigate the Complexity of Performance Deb
 date = 2019-04-15
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["yu_gan", "Yanqi Zhang", "Kelvin Hu", "Yuan He", "Meghna Pancholi", "Dailun Cheng", "Christina Delimitrou"]
+authors = ["admin", "Yanqi Zhang", "Kelvin Hu", "Yuan He", "Meghna Pancholi", "Dailun Cheng", "Christina Delimitrou"]
 
 # Publication type.
 # Legend:

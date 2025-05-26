@@ -3,7 +3,7 @@ title = "Sage: Leveraging ML To Diagnose Unpredictable Performance in Cloud Micr
 date = 2020-05-20
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["yu_gan", "Sundar Dev", "David Lo", "Christina Delimitrou"]
+authors = ["admin", "Sundar Dev", "David Lo", "Christina Delimitrou"]
 
 # Publication type.
 # Legend:

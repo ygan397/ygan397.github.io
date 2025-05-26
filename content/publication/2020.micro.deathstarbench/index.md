@@ -3,7 +3,7 @@ title = "Unveiling the Hardware and Software Implications of Microservices in Cl
 date = 2020-04-22
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["yu_gan", "Yanqi Zhang", "Dailun Cheng", "Ankitha Shetty", "Priyal Rathi", "Nayantara Katarki", "Ariana Bruno", "Justin Hu", "Brian Ritchken", "Brendon Jackson", "Kelvin Hu", "Meghna Pancholi", "Brett Clancy", "Chris Colen", "Fukang Wen", "Catherine Leung", "Siyuan Wang", "Leon Zaruvinsky", "Mateo Espinosa", "Yuan He", "Christina Delimitrou"]
+authors = ["admin", "Yanqi Zhang", "Dailun Cheng", "Ankitha Shetty", "Priyal Rathi", "Nayantara Katarki", "Ariana Bruno", "Justin Hu", "Brian Ritchken", "Brendon Jackson", "Kelvin Hu", "Meghna Pancholi", "Brett Clancy", "Chris Colen", "Fukang Wen", "Catherine Leung", "Siyuan Wang", "Leon Zaruvinsky", "Mateo Espinosa", "Yuan He", "Christina Delimitrou"]
 
 # Publication type.
 # Legend:

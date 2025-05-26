@@ -3,7 +3,7 @@ title = "μqSim: Enabling Accurate and Scalable Simulation for Interactive Micro
 date = 2019-03-25
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Yanqi Zhang", "yu_gan", "Christina Delimitrou"]
+authors = ["Yanqi Zhang", "admin", "Christina Delimitrou"]
 
 # Publication type.
 # Legend:

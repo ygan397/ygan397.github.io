@@ -3,7 +3,7 @@ title = "An Open-Source Benchmark Suite for Microservices and Their Hardware-Sof
 date = 2019-04-15
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["yu_gan", "Yanqi Zhang", "Dailun Cheng", "Ankitha Shetty", "Priyal Rathi", "Nayantara Katarki", "Ariana Bruno", "Justin Hu", "Brian Ritchken", "Brendon Jackson", "Kelvin Hu", "Meghna Pancholi", "Yuan He", "Brett Clancy", "Chris Colen", "Fukang Wen", "Catherine Leung", "Siyuan Wang", "Leon Zaruvinsky", "Mateo Espinosa", "Rick Lin", "Zhongling Liu", "Jake Padilla", "Christina Delimitrou"]
+authors = ["admin", "Yanqi Zhang", "Dailun Cheng", "Ankitha Shetty", "Priyal Rathi", "Nayantara Katarki", "Ariana Bruno", "Justin Hu", "Brian Ritchken", "Brendon Jackson", "Kelvin Hu", "Meghna Pancholi", "Yuan He", "Brett Clancy", "Chris Colen", "Fukang Wen", "Catherine Leung", "Siyuan Wang", "Leon Zaruvinsky", "Mateo Espinosa", "Rick Lin", "Zhongling Liu", "Jake Padilla", "Christina Delimitrou"]
 
 # Publication type.
 # Legend:

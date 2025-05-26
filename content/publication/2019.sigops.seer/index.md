@@ -3,7 +3,7 @@ title = "Leveraging Deep Learning to Improve Performance Predictability in Cloud
 date = 2019-07-30T00:00:00-04:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["yu_gan", "Yanqi Zhang", "Kelvin Hu", "Dailun Cheng", "Yuan He", "Meghna Pancholi", "Christina Delimitrou"]
+authors = ["admin", "Yanqi Zhang", "Kelvin Hu", "Dailun Cheng", "Yuan He", "Meghna Pancholi", "Christina Delimitrou"]
 
 # Publication type.
 # Legend:

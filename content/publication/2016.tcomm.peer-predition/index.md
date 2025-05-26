@@ -3,7 +3,7 @@ title = "Secure Collaborative Spectrum Sensing: A Peer-Prediction Method"
 date = 2016-08-16
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["yu_gan", "Chunxiao Jiang ", "Norman C. Beaulieu", "Jian Wang", "Yong Ren"]
+authors = ["admin", "Chunxiao Jiang ", "Norman C. Beaulieu", "Jian Wang", "Yong Ren"]
 
 # Publication type.
 # Legend:

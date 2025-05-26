@@ -3,7 +3,7 @@ title = "The Architectural Implications of Cloud Microservices"
 date = 2018-07-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["yu_gan", "Christina Delimitrou"]
+authors = ["admin", "Christina Delimitrou"]
 
 # Publication type.
 # Legend:

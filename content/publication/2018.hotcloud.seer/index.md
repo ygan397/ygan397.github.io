@@ -3,7 +3,7 @@ title = "Seer: Leveraging Big Data to Navigate the Increasing Complexity of Clou
 date = 2018-07-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["yu_gan", "Meghna Pancholi", "Dailun Cheng", "Siyuan Hu", "Yuan He", "Christina Delimitrou"]
+authors = ["admin", "Meghna Pancholi", "Dailun Cheng", "Siyuan Hu", "Yuan He", "Christina Delimitrou"]
 
 # Publication type.
 # Legend:
