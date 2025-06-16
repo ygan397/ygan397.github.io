@@ -17,7 +17,7 @@ authors = ["admin", "Chunxiao Jiang ", "Norman C. Beaulieu", "Jian Wang", "Yong 
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE Transactions on Communications"
+publication = "In IEEE Transactions on Communications"
 publication_short = "[IEEE TCOM](https://www.comsoc.org/publications/journals/ieee-tcom)"
 
 # Abstract.
